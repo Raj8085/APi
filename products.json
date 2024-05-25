@@ -1,0 +1,36 @@
+[
+    {
+        "name" : "iphone",
+        "price" : 154,
+        "featured" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "Samsung",
+        "price" : 300,
+        "featured" : true,
+        "company" : "Samsung"
+    },
+    {
+        "name" : "Redmi",
+        "price" : 360,
+        "featured" : true,
+        "company" : "mi"
+    },
+    {
+        "name" : "iphone10",
+        "price" : 1154,
+        "featured" : true,
+        "company" : "apple"
+
+    },
+    {
+        "name" : "watch",
+        "price" : 204,
+        "company" : "apple"
+    },{
+        "name" : "laptop",
+        "price" : 790,
+        "company":"dell"
+    }
+]
